@@ -9,7 +9,7 @@
 
 ## About Project
 
-This is Mini Project Assestment with PT. Arkamaya:
+This is Mini Project Assestment with PT. CITRARAYA NUSATAMA:
 
 ## Account
 email    : admin@gmail.com
